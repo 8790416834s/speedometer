@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.container {
+  background-color: #07080c;
+  height: 100vh;
+  text-align: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.image {
+  height: 250px;
+  width: 70%;
+}
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 32px;
+  color: #ffffff;
+  margin: 20px;
+}
+.description {
+  font-family: 'Roboto';
+  margin: 20px;
+  color: #cbd5e1;
+}
+.accelerator-button {
+  font-family: 'Roboto';
+  color: #ffffff;
+  background-color: #0b69ff;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+  margin-right: 20px;
+  padding: 5px;
+}
+.brake-button {
+  font-family: 'Roboto';
+  color: #cbd5e1;
+  background-color: transparent;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: #cbd5e1;
+  cursor: pointer;
+  padding: 5px;
+}
